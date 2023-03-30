@@ -2,6 +2,11 @@
 
 A simple chat room application built with Flask and Flask-SocketIO that allows users to create or join chat rooms and communicate in real-time.
 
+![Home page](<img width="1700" alt="Screenshot 2023-03-29 at 8 28 40 PM" src="https://user-images.githubusercontent.com/114031831/228697970-f8bdcd48-7ca2-4036-b640-8be7678161c4.png">
+)
+![Chat Page]<img width="1700" alt="Screenshot 2023-03-29 at 8 30 42 PM" src="https://user-images.githubusercontent.com/114031831/228698005-27cf67fc-a4bf-4618-b58f-71b12ce78067.png">
+
+
 ## Features
 
 - Real-time messaging
