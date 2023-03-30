@@ -11,7 +11,7 @@ A simple chat room application built with Flask and Flask-SocketIO that allows u
 - Secure session management with secret key
 
 ## Getting Started
----
+
 ### Prerequisites
 
 - Python 3.6+
@@ -70,7 +70,7 @@ _Note: Replace `<your_generated_secret_key>` with the secure key you generated._
 **Single Device:** You can operate the chat room by opening two separate browser windows on the same device. Open a regular browser window with the chat room and another private/incognito window that has it as well. This way, you can test the chat room by yourself, simulating multiple users joining the chat.
 
 ## Application Structure
----
+
 The project is organized as follows:
 ```bash
 ├── main.py
@@ -94,9 +94,9 @@ The project is organized as follows:
 - `style.css`: The main stylesheet for the application.
 
 ## Security Implications
----
+
 The application uses a secret key to secure sessions, which is essential for protecting user data and maintaining the integrity of the application. The secret key should be kept confidential, and it is recommended to use a strong, randomly generated key. In this project, the secret key is stored in the `.env` file, which should not be committed to version control to prevent unauthorized access.
 
 ## Wrapping Up
----
+
 In conclusion, this Flask-SocketIO chat room application provides a simple and efficient way to communicate in real-time with multiple users. By following the setup instructions and implementing the required files, you'll have a fully functional chat room that can be tested across multiple devices or within a single device using different browser windows. Keep in mind the importance of securing your application with a secret key, and make sure to store it safely using environment variables. Enjoy connecting with others and exploring the power of real-time communication in your projects!
