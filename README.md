@@ -72,7 +72,7 @@ _Note: Replace `<your_generated_secret_key>` with the secure key you generated._
 ## Application Structure
 ---
 The project is organized as follows:
-
+```bash
 ├── main.py
 ├── .env
 ├── templates
@@ -81,7 +81,7 @@ The project is organized as follows:
 │ └── room.html
 └── static
 └── style.css
-
+```
 **-** `main.py`: The main application file that contains the Flask and Flask-SocketIO logic. -`.env`: A file to store environment variables, including the secret key for the Flask application.
 
 **-** `templates`: A folder containing the HTML templates for the application.
