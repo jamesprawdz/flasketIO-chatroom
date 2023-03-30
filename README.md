@@ -53,7 +53,6 @@ _Note: Replace `<your_generated_secret_key>` with the secure key you generated._
 
 ### Running the Application
 
----
 
 **1. Start the Flask application with SocketIO support.**
 
