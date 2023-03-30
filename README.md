@@ -27,11 +27,11 @@ A simple chat room application built with Flask and Flask-SocketIO that allows u
 
 **2.  Change directory to the project folder.**
 
-`cd flask-socketio-chat`
+`cd flasketIO-chatroom`
 
 **3.  Create a virtual environment.**
 
-`python3 -m venv venv`
+`python -m venv venv`
 
 **4. Activate the virtual environment.**
 
